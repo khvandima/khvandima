@@ -22,11 +22,15 @@ but I do not position myself as a specialist in these areas.
 - Model evaluation and optimization  
 
 ### ⚙️ MLOps & Deployment
-- FastAPI (model inference APIs)  
-- Docker  
-- CircleCI (CI/CD workflows)  
-- Model packaging & reproducible pipelines  
-- Deployment on Railway / Render / AWS  
+- FastAPI inference API (manual Docker deployment on Railway)
+  → bank-retirement-api
+
+- CI/CD workflows for ML systems (GitHub, CircleCI, Docker, Gemfury, Railway)
+  → bank-retirement-mlops
+  
+- Model packaging & reproducible pipelines
+  → bank_retirement_classification_model
+  → heart-disease-classification-model (structure reference)
 
 ### 🧰 Additional Skills (not my main specialization)
 - Basic SwiftUI development (iOS)  
