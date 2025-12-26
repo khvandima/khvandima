@@ -23,16 +23,16 @@ but I do not position myself as a specialist in these areas.
 
 ### ⚙️ MLOps & Deployment
 
-- FastAPI inference API (manual Docker deployment on Railway)      
-  → bank-retirement-api
+- FastAPI inference API (manual Docker deployment on Railway)  
+  → [bank-retirement-api](https://github.com/khvandima/bank-retirement-api)
 
-- CI/CD workflows for ML systems (GitHub, CircleCI, Docker, Gemfury, Railway)      
-  → bank-retirement-mlops
+- CI/CD workflows for ML systems (GitHub, CircleCI, Docker, Gemfury, Railway)  
+  → [bank-retirement-mlops](https://github.com/khvandima/bank-retirement-mlops)
 
-- Model packaging & reproducible ML pipelines      
-  → bank_retirement_classification_model      
-  → heart-disease-classification-model (structure reference)
-
+- Model packaging & reproducible ML pipelines  
+  → [bank_retirement_classification_model](https://github.com/khvandima/bank_retirement_classification_model)  
+  → [heart-disease-classification-model](https://github.com/khvandima/heart-disease-classification-model) *(structure reference)*
+  
 ### 🧰 Additional Skills (not my main specialization)
 - Basic SwiftUI development (iOS)  
 - Basic React & JavaScript  
